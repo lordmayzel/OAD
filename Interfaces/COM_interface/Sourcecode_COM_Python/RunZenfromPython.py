@@ -19,7 +19,7 @@ within a python script.
 
 Requirements:
     
-- bftools.py, czitools.py, misctooly.py
+- bftools.py, czitools.py, misctools.py
 - tifffile
 - czifile.py
 - mahotas
